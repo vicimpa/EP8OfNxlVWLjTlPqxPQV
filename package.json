@@ -1,8 +1,11 @@
 {
   "name": "api-di4wia23o50uq4wcrz7y",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "dependencies": {
     "portable-fetch": "^3.0.0"
+  },
+  "scripts": {
+
   }
 }
